@@ -21,3 +21,7 @@ https://docs.microsoft.com/en-us/azure/event-grid/secure-webhook-delivery#multit
 
 ### Custom Powershell Script for Securing Event Grid Endpoints
 https://docs.microsoft.com/en-us/azure/event-grid/scripts/event-grid-powershell-webhook-secure-delivery-azure-ad-app
+
+### Event Grid Integration with Azure Blob Storage and ADLS Gen2
+https://docs.microsoft.com/en-us/azure/event-grid/event-schema-blob-storage?tabs=event-grid-event-schema
+
