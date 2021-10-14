@@ -25,3 +25,5 @@ https://docs.microsoft.com/en-us/azure/event-grid/scripts/event-grid-powershell-
 ### Event Grid Integration with Azure Blob Storage and ADLS Gen2
 https://docs.microsoft.com/en-us/azure/event-grid/event-schema-blob-storage?tabs=event-grid-event-schema
 
+### Sending Custom Events to Event Grid Endpoints via HTTP
+https://docs.microsoft.com/en-us/azure/event-grid/custom-event-quickstart#send-an-event-to-your-custom-topic
